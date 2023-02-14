@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">myTextToSpeech</string>
+    <string name="input_text_wa">input text wa</string>
+    <string name="butts">BUTTS</string>
+</resources>
